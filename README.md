@@ -8,3 +8,9 @@
 #### My Opensource Github stats ✨
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caesarali&show_icons=true&&count_private=true&hide_title=true&hide=stars&line_height=24&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarali&&layout=compact&hide=html&hide_title=true&hide_border=true)
+
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=caesarali&show_icons=true&&count_private=true&hide_title=true&hide=stars&line_height=24&hide_border=true" widht="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarali&&layout=compact&hide=html&hide_title=true&hide_border=true" widht="50%" />
+</p>
